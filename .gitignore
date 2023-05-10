@@ -1,0 +1,16 @@
+
+*.exe
+
+/target/
+
+.settings
+
+.classpath
+
+.project
+
+
+
+
+
+
